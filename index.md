@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hola Mundo!"
+title: "Proyecto de Administración Inmobiliaria!"
 ---
 
 ## Error 503!
